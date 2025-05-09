@@ -1,0 +1,1 @@
+(C) Copyright all rights reserved Neurosnap Inc. 2022-2025
