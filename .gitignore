@@ -1,2 +1,13 @@
 results
 .venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Jupyter Notebook files
+main.ipynb
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+.ipynb_metadata/
